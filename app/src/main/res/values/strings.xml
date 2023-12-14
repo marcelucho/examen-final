@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Club-Marcelo</string>
+    <!--Fragmento  Registro -->
+
+    <string name="titulo">REGISTRO</string>
+    <string name="nombre">Nombre:</string>
+    <string name="telefono">Telefono</string>
+    <string name="Documento">Documento Nro:</string>
+
+    <string name="txt_nombre">Introduzca Nombre</string>
+    <string name="txt_telefono">Introduzca Telefono</string>
+    <string name="txt_documento">Introduzca Documento</string>
+    <string name="btn_enviar">Enviar</string>
+
+    <!--Fragmento  Inicio -->
+    <string name="Welcome_inicio">Bienvenidos</string>
+    <string name="btn_inicio">Inicio</string>
+    <string name="txt_reseña">Bienvenidos al Club de Baloncesto.
+Aquí encontrarás una comunidad de amantes del baloncesto unidos por el amor a este emocionante deporte.
+Desde la sección principal de nuestra aplicación, podrás interactuar con los miembros y participar en nuestras actividades.
+¡Únete a nosotros y forma parte de nuestra familia de baloncesto!</string>
+
+
+    <!--Nav-->
+    <string name="txt_home">Home</string>
+    <string name="txt_inscripcion">Inscripción</string>
+    <string name="txt_miembros">Mienbros</string>
+
+
+
+</resources>
